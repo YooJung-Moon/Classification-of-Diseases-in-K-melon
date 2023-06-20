@@ -7,6 +7,8 @@ Colab Pro
 
 ## Main features of the data
 * Data source : https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100
+#### [Data proprocessing]()
+
 * Data pipeline
 ```jupyter notebook
 !wget https://www.dropbox.com/s/diwzbpumn81dwhd/img4.zip?dl=0
